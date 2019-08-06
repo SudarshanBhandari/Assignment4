@@ -1,0 +1,20 @@
+{
+    "dinner":
+    [
+        {
+            "name":"Noodles",
+            "price":5.80,
+            "calories":580
+        },
+        {
+            "name":"Mac & Cheese",
+            "price":5.50,
+            "calories":750
+        },
+        {
+            "name":"Steak",
+            "price":6.80,
+            "calories":750
+        }
+    ]
+}

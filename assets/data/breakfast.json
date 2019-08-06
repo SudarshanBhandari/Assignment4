@@ -1,0 +1,20 @@
+{
+    "breakfast":
+    [
+        {
+            "name":"Begal",
+            "price":1.80,
+            "calories":180
+        },
+        {
+            "name":"Toast",
+            "price":1.50,
+            "calories":150
+        },
+        {
+            "name":"Oat",
+            "price":2.80,
+            "calories":250
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "lunch":
+    [
+        {
+            "name":"Rice",
+            "price":3.80,
+            "calories":580
+        },
+        {
+            "name":"Burger",
+            "price":4.50,
+            "calories":650
+        },
+        {
+            "name":"Pizza",
+            "price":6.50,
+            "calories":850
+        }
+    ]
+}
